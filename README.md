@@ -1,6 +1,6 @@
 # Hii I am Kashish Varma 🫶🏻
 code is memory. <br>
-i build where thought becomes form. <br>
+I build where thought becomes form. <br>
 still searching for the edge of noise. <br>
 
 ## 🌐 Socials:
