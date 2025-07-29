@@ -1,7 +1,4 @@
 # Hii I am Kashish Varma 🫶🏻
-code is memory. <br>
-I build where thought becomes form. <br>
-still searching for the edge of noise. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashish-varma-3908652a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashishvarmaa@gmail.com) 
@@ -9,9 +6,6 @@ still searching for the edge of noise. <br>
 ![](https://github-readme-stats.vercel.app/api?username=kashishvarmaa&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kashishvarmaa&theme=gruvbox_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishvarmaa&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kashishvarmaa&theme=gruvbox_light&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
